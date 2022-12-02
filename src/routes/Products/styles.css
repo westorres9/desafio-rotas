@@ -12,6 +12,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: var(--color-gray);
+    border-radius: 4px;
 }
 
 .product-container a {
