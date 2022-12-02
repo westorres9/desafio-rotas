@@ -1,0 +1,27 @@
+.product-content {
+    display: flex;
+    justify-content: center;
+}
+
+.product-container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 960px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: var(--color-gray);
+}
+
+.product-container a {
+    margin-left: 20px;
+}
+
+.menu-item {
+    font-size: 16px;
+}
+
+.menu-active {
+    font-weight: bold;
+}

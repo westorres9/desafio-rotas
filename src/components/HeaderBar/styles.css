@@ -1,0 +1,24 @@
+header {
+    height: 70px;
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 960px;
+}
+
+.menu-item {
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+.menu-active {
+    font-weight: bold;
+}

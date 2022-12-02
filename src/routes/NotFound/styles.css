@@ -1,0 +1,14 @@
+.notFound-content {
+    display: flex;
+    justify-content: center;
+}
+
+.notFound-container {
+    display: flex;
+    width: 960px;
+    margin-top: 20px;
+}
+
+.notFound-container h1 {
+    font-size: 24px;
+}
